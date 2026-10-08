@@ -7,6 +7,10 @@ behave, and use a scanner with only a few charges to prove who the impostor
 is. Every scan burns power you need for heat. Atari 2600 looks, one screen,
 inside your terminal.
 
+<p align="center">
+<img width="558" height="416" alt="cold_watch" src="https://github.com/user-attachments/assets/3fbf40d6-129c-4bea-a910-295040ea786d" />
+</p>
+
 ```bash
 ./play.sh
 ```
